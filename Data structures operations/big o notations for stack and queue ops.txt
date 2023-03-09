@@ -1,0 +1,24 @@
+Big o notation for question 2
+
+push() = o(1)
+pop() = o(1)
+isEmpty() = o(1)
+size()= o(1)
+top() = o(n)
+
+time complexity = o(1)+o(1)+o(1)+o(1)+o(n) = o(4) + o(n)
+= o(n)
+
+Big o notation for question 2
+
+enqueue() = o(1)
+dequeue() = o(1)
+isEmpty() = o(1)
+size()= o(1)
+front()= o(n)
+printqueue() = o(n)
+
+time complexity = o(1)+o(1)+o(1)+o(1)+o(n)+o(1) = o(5)+o(n)
+
+=o(n)
+
